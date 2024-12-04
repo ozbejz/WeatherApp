@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="password">geslo</string>
+    <string name="display_weather">Weather</string>
+    <string name="search">Search</string>
+    <string name="sign_in">Sign In</string>
+</resources>
